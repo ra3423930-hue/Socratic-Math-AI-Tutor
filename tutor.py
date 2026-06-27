@@ -3,7 +3,7 @@ from google import genai
 from google.genai import types
 
 # Initialize the AI Client with your API Key
-client = genai.Client(api_key="AQ.Ab8RN6KUaPbO0jxTbb1lI9TEz4IFYrwWQsrjrHjBRE4qOXMHlg")
+client = genai.Client(api_key="AQ.Ab8RN6KloHaBHzANvIPG5NKLi4FwnlTQyVdSIF4CAWmON__Hhg")
 
 # Updated System Instruction to reflect your Round 1 JoSAA allotment
 ee_counselling_prompt = """
